@@ -1,1 +1,9 @@
 # all-challengess
+1. https://awet100.github.io/Design-compenents/0.footer-social-madia/
+2. https://awet100.github.io/Design-compenents/1.medical-info%20form/
+3. https://awet100.github.io/Design-compenents/2.pagination/
+4. https://awet100.github.io/Design-compenents/3.zone-benifits-gird/
+5. https://awet100.github.io/Design-compenents/4.zone-card/
+6. https://awet100.github.io/Design-compenents/5.zone-CTA/
+7. https://awet100.github.io/Design-compenents/6.zone-hero/
+8. https://awet100.github.io/Design-compenents/7.price-table/index.html
